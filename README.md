@@ -6,8 +6,8 @@ This Python project is a faithful implementation of the classic game Tetris usin
 
 ## Prerequisites
 
-Python 3.x
-Pygame
+- Python 3.x
+- Pygame
 
  ```bash
     pip install -r requirements.txt 
